@@ -6,7 +6,7 @@ An open-source application for independent, self-published authors.
 <br />-Upload all source code to an online repository for the betterment of other authors wanting to support themselves with an app.
 <br />-Gain a greater understanding of application frameworks available to developers.
 <br />-Develop an app that is built upon a free, open-source software (Drupal) that gives others the ability to create without any additional fees.
-<br />-Pratically utilize app in a commercial scenario by placing an advertisement within published books through QR Codes.
+<br />-Practically utilize app in a commercial scenario by placing an advertisement within published books through QR Codes.
 
 <b>Executive Summary:</b>
 <br />Tyler Voll Books is an open-source application for idependent, self-published authors who are wanting to advertise their books and updates to a larger
